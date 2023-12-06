@@ -1,2 +1,2 @@
 # Desktop-Calculator
-I made simple calculator using C# Forms - Desktop 
+I made simple calculator using C# Windows Forms
